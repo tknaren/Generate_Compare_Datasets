@@ -1,0 +1,22 @@
+<template xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eschemaTemplate.xsd">
+    <metadata tag="MR_TEMPLATE_TAG" description="MR_TEMPLATE" version="01" UId="MACHINE_NAME" Category="" solutionId="" user="USER" date="2023-01-01T00:00:00"/>
+    <masterRecipes>
+        <masterRecipe tag="MR_ID" version="1" description="MR_DESC" state="1" effective="2023-01-01T00:00:00" expiration="" UId="MACHINE_NAME" orig_version="1" resPlan="NULL" resActv="NULL" RPL_tag="BLISTERS_ATX" RPL_ver="1">
+            <mrParams>
+                <mrParam tag="ValidatedWorkcenters" version="0" value="" resPlan="" resActv=""> </mrParam>
+                <mrParam tag="RecipeIdentifier" version="1" value="" resPlan="" resActv=""> </mrParam>
+                <mrParam tag="PONotes" version="2" value="" resPlan="" resActv=""> </mrParam>
+                <mrParam tag="PrimaryMR" version="3" value="" resPlan="" resActv=""> </mrParam>
+                <mrParam tag="SecondaryMR" version="4" value="" resPlan="" resActv=""> </mrParam>
+                <mrParam tag="Material_ID" version="5" value="" resPlan="" resActv=""> </mrParam>
+                <mrParam tag="RecipeIdentifier" version="6" value="" resPlan="" resActv=""> </mrParam>
+                <mrParam tag="Name" version="7" value="" resPlan="" resActv=""> </mrParam>
+                <mrParam tag="Description" version="8" value="" resPlan="" resActv=""> </mrParam>
+                <mrParam tag="Serialization" version="9" value="" resPlan="" resActv=""> </mrParam>
+                <mrParam tag="RussianMarket" version="10" value="" resPlan="" resActv=""> </mrParam>
+                <mrParam tag="Units" version="11" value="" resPlan="" resActv=""> </mrParam>
+                <mrParam tag="Weight" version="12" value="" resPlan="" resActv=""> </mrParam>
+            </mrParams>
+        </masterRecipe>
+    </masterRecipes>
+</template>
